@@ -1,7 +1,0 @@
-data:
-  train_features_file: data/train-multi.src.tok
-  train_labels_file: data/train-multi.src.tok
-  eval_features_file: data/valid-multi.src.tok
-  eval_labels_file: data/valid-multi.tgt.tok
-  source_words_vocabulary: data/src-vocab.txt
-  target_words_vocabulary: data/tgt-vocab.txt
